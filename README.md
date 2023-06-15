@@ -1,4 +1,4 @@
-# ⛵ **Yacht-booking-system**
+# ⛵ **Yacht booking system**
 This is a yacht booking application built with React that allows users to book and rent boat. The app features a calendar where users can select dates and enter their booking details.
 
 ## 👌 FEATURES
