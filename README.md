@@ -6,7 +6,7 @@ This is a yacht booking application built with React that allows users to book a
 - User-friendly interface for entering booking information.
 - Responsive design for optimal viewing on different devices.
 
-## 📓 TECHNOLOGIE USED
+## 📓 TECHNOLOGIES USED
 - React
 - JavaScript
 - HTML
@@ -15,7 +15,7 @@ This is a yacht booking application built with React that allows users to book a
 
 ## 🔧 Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/boat-booking-app.git`
+1. Clone the repository: `git clone https://github.com/Edyta2023/Yacht-booking-system`
 2. Navigate to the project directory: `cd boat-booking-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
